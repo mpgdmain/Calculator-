@@ -1,0 +1,6 @@
+{
+  "name": "Fuel Wise",
+  "description": "A simple and instant US MPG to L/100km fuel economy converter tool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
